@@ -1,0 +1,17 @@
+.icon {
+    font-size:2em;
+}
+.container.main{
+    margin-top:7em;
+}
+#delete{
+    display: inline;
+}
+.content,.btn
+{
+    margin-top:1em;
+}
+img
+{
+    background-image: url('https://cdn5.vectorstock.com/i/1000x1000/76/54/brackets-code-coding-development-icon-vector-17117654.jpg');
+}
